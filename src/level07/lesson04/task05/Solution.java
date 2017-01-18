@@ -3,7 +3,7 @@ package com.javarush.test.level07.lesson04.task05;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-/* Один большой массив и два маленьких
+/* Один большой массив и два  маленьких
 1. Создать массив на 20 чисел.
 2. Ввести в него значения с клавиатуры.
 3. Создать два массива на 10 чисел каждый.
